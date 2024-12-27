@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpfSalary", "wpfSalary\wpfSalary.csproj", "{204CE303-2B91-4B11-BEB6-574F61F07815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{204CE303-2B91-4B11-BEB6-574F61F07815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204CE303-2B91-4B11-BEB6-574F61F07815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204CE303-2B91-4B11-BEB6-574F61F07815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204CE303-2B91-4B11-BEB6-574F61F07815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0448283-3F3A-4E49-A79F-1F86A26318BD}
+	EndGlobalSection
+EndGlobal
